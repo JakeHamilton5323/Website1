@@ -1,9 +1,20 @@
 /* Website Styles */
+* {
+  font-size: 100%;
+}
 body {
   background-color: LightGrey;
   color: Black;
+  font-family: 'Impact', Georgia, serif ;
+  font-size: 14px;
 }
 h1 {
   color: red;
-  font-family: 'Noto Serif TC', Georgia, serif ;
+  font-size: 36px;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 18px;
 }
