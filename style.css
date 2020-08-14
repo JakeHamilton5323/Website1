@@ -1,13 +1,21 @@
 /* Website Styles */
 * {
   font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  /* border: 1px solid red; */
 }
 body {
   background-color: LightGrey;
   color: Black;
   font-family: 'Impact', Georgia, serif ;
   font-size: 14px;
+  /* margin: 50px; */
+  header
+  padding: 30px;
+  border-bottom: 5px solid grey;
 }
+
 h1 {
   color: red;
   font-size: 48px;
@@ -27,19 +35,31 @@ h3 {
 h1, h2, h3 {
   font-weight: bold;
   font-style: italic;
+  margin-bottom: 20px;
 }
 p {
   line-height: 2;
+  margin: 15px 0;
 }
 h1 {
   text-align: left;
 }
 header h1 {
   text-align: center;
+
 }
 a:hover {
   color: orange;
   text-decoration: underline;
   font-size: 24px;
 
+}
+ul, ol {
+  margin: 15px 0;
+}
+section {
+  border: 1px solid gainsboro;
+  background-color: white;
+  margin: 30px;
+  padding: 30px;
 }
