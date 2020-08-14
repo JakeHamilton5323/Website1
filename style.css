@@ -12,7 +12,7 @@ body {
   font-family: 'Impact', Georgia, serif ;
   font-size: 14px;
   /* margin: 50px; */
-  header
+  header,
   padding: 30px;
   border-bottom: 5px solid grey;
 }
