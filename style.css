@@ -37,6 +37,9 @@ h1 {
 header h1 {
   text-align: center;
 }
-section li a {
-  color: red;
+a:hover {
+  color: orange;
+  text-decoration: underline;
+  font-size: 24px;
+
 }
