@@ -8,6 +8,7 @@
 }
 body {
   /* margin: 10px 20px 10px; */
+  background-image: url(images/repeated-square-dark.png);
 
   background-color: LightGrey;
   color: Black;
