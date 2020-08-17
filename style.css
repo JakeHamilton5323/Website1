@@ -27,18 +27,19 @@ p {
 }
 h1 {
   margin: 30px 0;
-  color: red;
-  font-size: 70px;
+  color: Red;
+  font-size: 64px;
   font-weight: bold;
   border-bottom: 1px solid black;
 }
 h2 {
-  font-size: 24px;
+  font-size: 48px;
   font-weight: 700;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 48px;
+  font-weight: 700;
 }
 /* h1 { */
   /* font-weight: bold; */
@@ -68,6 +69,7 @@ a:hover {
 }
 ul, ol {
   margin: 15px 0;
+    padding: 30px;
 }
 section {
   border: 1px solid gainsboro;
@@ -79,8 +81,8 @@ section {
 
 }
 img {
-  width: 400px;
-  height: 300px;
+  width: 600px;
+  height: 400px;
 }
 .title {
   font-size: 48px;
@@ -102,7 +104,7 @@ footer {
 
 }
 .container {
-  max-width: 1000px;
+  max-width: 3000px;
   margin: 0 auto;
 }
 body {
