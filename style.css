@@ -28,6 +28,7 @@ p {
   margin-bottom: 20px;
   margin-right: 30px;
   margin-left: 0;
+  font-family: 'Impact'
 
 }
 h1 {
@@ -75,7 +76,7 @@ header  {
 a:hover {
   color: orange;
   text-decoration: underline;
-  font-size: 24px;
+  font-size: 32px;
 
 }
 ul, ol {
