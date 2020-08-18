@@ -36,6 +36,7 @@ h1 {
   font-size: 76px;
   font-weight: bold;
   border-bottom: 1px solid black;
+  background-image: url(images/repeated-square-dark.png);
 }
 h2 {
   font-size: 32px;
@@ -83,7 +84,7 @@ ul, ol {
 }
 section {
   border: 1px solid gainsboro;
-  background-color: white;
+  background-color: grey;
   margin: 30px;
   padding: 30px;
   width: 50%;
@@ -93,7 +94,7 @@ section {
 
 }
 img {
-  width: 900px;
+  width: 700px;
   height: 400px;
 }
 .title {
