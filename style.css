@@ -41,12 +41,14 @@ h1 {
 h2 {
   font-size: 32px;
   font-weight: 700;
+  text-decoration: underline;
 }
 
 h3 {
   font-size: 48px;
   font-weight: 700;
   line-height: 2;
+  text-decoration: underline;
 
 }
 /* h1 { */
@@ -99,7 +101,7 @@ img {
 }
 .title {
   font-size: 48px;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 
 }
 header,
